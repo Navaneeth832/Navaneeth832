@@ -13,8 +13,8 @@
 🛠️ Tools & Tech I love: VS Code, Firebase, GitHub, Gemini, PythonAnywhere
 
 📬 Let’s connect:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/navaneeth-xxxxx](https://www.linkedin.com/in/navaneeth-krishna-g-904477334/))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=flat&logo=google-chrome)](https://your-portfolio-link.com) *(Coming soon)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/navaneeth-krishna-g-904477334/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=flat&logo=google-chrome)](https://navaneeth832.github.io/portfolio/) 
 
 ---
 
